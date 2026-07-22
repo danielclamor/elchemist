@@ -419,7 +419,7 @@ const recipesData = [
             'nic_base': {
               'code': '1CNT',
               'name': 'VG S',
-              'is_vg': false,
+              'is_vg': true,
             },
             'percentage': 1.0,
           },
@@ -444,7 +444,7 @@ const recipesData = [
             'nic_base': {
               'code': '1CNT',
               'name': 'VG S',
-              'is_vg': false,
+              'is_vg': true,
             },
             'percentage': 1.0,
           },
