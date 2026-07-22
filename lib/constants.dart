@@ -13,7 +13,7 @@ const recipes = [
     'nic_profiles': [
       {
         'nic_level': '0MG',
-        'isNewMix': false,
+        'is_new_mix': false,
         'target_nic_str': 0,
         'target_vg': 0.6,
         'target_pg': 0.4,
@@ -34,7 +34,7 @@ const recipes = [
       },
       {
         'nic_level': '3MG',
-        'isNewMix': false,
+        'is_new_mix': false,
         'target_nic_str': 0.012,
         'target_vg': 0.6065,
         'target_pg': 0.3935,
@@ -72,7 +72,7 @@ const recipes = [
       },
       {
         'nic_level': '6MG',
-        'isNewMix': false,
+        'is_new_mix': false,
         'target_nic_str': 0.024,
         'target_vg': 0.614755,
         'target_pg': 0.385245,
@@ -110,7 +110,7 @@ const recipes = [
       },
       {
         'nic_level': '12MG',
-        'isNewMix': false,
+        'is_new_mix': false,
         'target_nic_str': 0.048,
         'target_vg': 0.63026,
         'target_pg': 0.36974,
@@ -148,7 +148,7 @@ const recipes = [
       },
       {
         'nic_level': '18MG',
-        'isNewMix': false,
+        'is_new_mix': false,
         'target_nic_str': 0.072,
         'target_vg': 0.64655,
         'target_pg': 0.35345,
@@ -194,7 +194,7 @@ const recipes = [
     'nic_profiles': [
       {
         'nic_level': '0MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.0,
         'target_vg': 0.40,
         'target_pg': 0.60,
@@ -210,7 +210,7 @@ const recipes = [
       },
       {
         'nic_level': '10MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.01,
         'target_vg': 0.40,
         'target_pg': 0.60,
@@ -235,7 +235,7 @@ const recipes = [
       },
       {
         'nic_level': '20MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.02,
         'target_vg': 0.40,
         'target_pg': 0.60,
@@ -268,7 +268,7 @@ const recipes = [
     'nic_profiles': [
       {
         'nic_level': '3MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.003,
         'target_vg': 0.69635,
         'target_pg': 0.30365,
@@ -293,7 +293,7 @@ const recipes = [
       },
       {
         'nic_level': '6MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.006,
         'target_vg': 0.692625,
         'target_pg': 0.307375,
@@ -318,7 +318,7 @@ const recipes = [
       },
       {
         'nic_level': '12MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.012,
         'target_vg': 0.68487,
         'target_pg': 0.31513,
@@ -351,7 +351,7 @@ const recipes = [
     'nic_profiles': [
       {
         'nic_level': '10MG',
-        'isNewMix': false,
+        'is_new_mix': false,
         'target_nic_str': 0.04,
         'target_vg': 0.35,
         'target_pg': 0.65,
@@ -376,7 +376,7 @@ const recipes = [
       },
       {
         'nic_level': '20MG',
-        'isNewMix': false,
+        'is_new_mix': false,
         'target_nic_str': 0.08,
         'target_vg': 0.35,
         'target_pg': 0.65,
@@ -409,7 +409,7 @@ const recipes = [
     'nic_profiles': [
       {
         'nic_level': '10MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.01,
         'target_vg': 0.35,
         'target_pg': 0.65,
@@ -434,7 +434,7 @@ const recipes = [
       },
       {
         'nic_level': '20MG',
-        'isNewMix': true,
+        'is_new_mix': true,
         'target_nic_str': 0.02,
         'target_vg': 0.35,
         'target_pg': 0.65,
