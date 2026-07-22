@@ -8,8 +8,8 @@ const recipes = [
   {
     'name': 'Black Jet Do More Freebase',
     'brand': 'Black Jet',
-    'chill_type': 'Non-chilled',
-    'nic_type': 'Freebase',
+    'chill_type': 'non-chilled',
+    'nic_type': 'freebase',
     'nic_profiles': [
       {
         'nic_level': '0MG',
@@ -189,8 +189,8 @@ const recipes = [
   {
     'name': 'Slice Big Island (Iced) Salt',
     'brand': 'Slice',
-    'chill_type': 'Chilled',
-    'nic_type': 'Salt',
+    'chill_type': 'chilled',
+    'nic_type': 'salt',
     'nic_profiles': [
       {
         'nic_level': '0MG',
@@ -263,8 +263,8 @@ const recipes = [
   {
     'name': 'This Bru Da Bears Freebase',
     'brand': 'This Bru MFG',
-    'chill_type': 'Non-chilled',
-    'nic_type': 'Freebase',
+    'chill_type': 'non-chilled',
+    'nic_type': 'freebase',
     'nic_profiles': [
       {
         'nic_level': '3MG',
@@ -346,8 +346,8 @@ const recipes = [
   {
     'name': 'Vibe Arctic Mint (Iced) Salt',
     'brand': 'Vibe',
-    'chill_type': 'Chilled',
-    'nic_type': 'Salt',
+    'chill_type': 'chilled',
+    'nic_type': 'salt',
     'nic_profiles': [
       {
         'nic_level': '10MG',
@@ -404,8 +404,8 @@ const recipes = [
   {
     'name': 'Vibe Green NRG (Iced) Salt',
     'brand': 'Vibe',
-    'chill_type': 'Chilled',
-    'nic_type': 'Salt',
+    'chill_type': 'chilled',
+    'nic_type': 'salt',
     'nic_profiles': [
       {
         'nic_level': '10MG',
