@@ -475,12 +475,12 @@ const nicBaseOptionsData = [
   {
     'code': '3P',
     'name': 'VG F',
-    'is_vg': false,
+    'is_vg': true,
   },
   {
     'code': '1CNT',
     'name': 'VG S',
-    'is_vg': false,
+    'is_vg': true,
   },
   {
     'code': '2CNT',
