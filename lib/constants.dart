@@ -460,3 +460,31 @@ const recipesData = [
     ],
   },
 ];
+
+const nicBaseOptionsData = [
+  {
+    'code': '1',
+    'name': 'VG S',
+    'is_vg': true,
+  },
+  {
+    'code': '2P',
+    'name': 'PG S',
+    'is_vg': false,
+  },
+  {
+    'code': '3P',
+    'name': 'VG F',
+    'is_vg': false,
+  },
+  {
+    'code': '1CNT',
+    'name': 'VG S',
+    'is_vg': false,
+  },
+  {
+    'code': '2CNT',
+    'name': 'PG S',
+    'is_vg': false,
+  },
+];
