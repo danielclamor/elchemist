@@ -4,7 +4,7 @@ const nicDensity = 1.00925;
 const pgFlavDensity = 1.04865;
 const vgFlavDensity = 1.16065;
 
-const recipes = [
+const recipesData = [
   {
     'name': 'Black Jet Do More Freebase',
     'brand': 'Black Jet',
@@ -14,7 +14,7 @@ const recipes = [
       {
         'nic_level': '0MG',
         'is_new_mix': false,
-        'target_nic_str': 0,
+        'target_nic_str': 0.0,
         'target_vg': 0.6,
         'target_pg': 0.4,
         'nic_base_nic_str': 1.0,
@@ -247,7 +247,7 @@ const recipes = [
               'name': 'PG S',
               'is_vg': false,
             },
-            'percentage': 1,
+            'percentage': 1.0,
           },
         ],
         'flavorings': [
@@ -355,7 +355,7 @@ const recipes = [
         'target_nic_str': 0.04,
         'target_vg': 0.35,
         'target_pg': 0.65,
-        'nic_base_nic_str': 1,
+        'nic_base_nic_str': 1.0,
         'nic_bases': [
           {
             'nic_base': {
@@ -363,7 +363,7 @@ const recipes = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1,
+            'percentage': 1.0,
           },
         ],
         'flavorings': [
@@ -421,7 +421,7 @@ const recipes = [
               'name': 'VG S',
               'is_vg': false,
             },
-            'percentage': 1,
+            'percentage': 1.0,
           },
         ],
         'flavorings': [
@@ -446,7 +446,7 @@ const recipes = [
               'name': 'VG S',
               'is_vg': false,
             },
-            'percentage': 1,
+            'percentage': 1.0,
           },
         ],
         'flavorings': [
