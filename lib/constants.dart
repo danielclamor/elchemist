@@ -6,13 +6,16 @@ const vgFlavDensity = 1.16065;
 
 const formulasData = [
   {
+    'slug': 'black-jet-do-more-freebase',
     'name': 'Black Jet Do More Freebase',
     'brand': 'Black Jet',
     'chill_type': 'non-chilled',
     'nic_type': 'freebase',
     'nic_profiles': [
       {
-        'nic_level': '0MG',
+        'slug': 'black-jet-do-more-freebase-0mg',
+        'full_name': 'Black Jet Do More Freebase - 0MG',
+        'name': '0MG',
         'is_new_mix': false,
         'target_nic_str': 0.0,
         'target_vg': 0.6,
@@ -33,7 +36,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '3MG',
+        'slug': 'black-jet-do-more-freebase-3mg',
+        'full_name': 'Black Jet Do More Freebase - 3MG',
+        'name': '3MG',
         'is_new_mix': false,
         'target_nic_str': 0.012,
         'target_vg': 0.6065,
@@ -71,7 +76,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '6MG',
+        'slug': 'black-jet-do-more-freebase-6mg',
+        'full_name': 'Black Jet Do More Freebase - 6MG',
+        'name': '6MG',
         'is_new_mix': false,
         'target_nic_str': 0.024,
         'target_vg': 0.614755,
@@ -109,7 +116,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '12MG',
+        'slug': 'black-jet-do-more-freebase-12mg',
+        'full_name': 'Black Jet Do More Freebase - 12MG',
+        'name': '12MG',
         'is_new_mix': false,
         'target_nic_str': 0.048,
         'target_vg': 0.63026,
@@ -147,7 +156,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '18MG',
+        'slug': 'black-jet-do-more-freebase-18mg',
+        'full_name': 'Black Jet Do More Freebase - 18MG',
+        'name': '18MG',
         'is_new_mix': false,
         'target_nic_str': 0.072,
         'target_vg': 0.64655,
@@ -187,13 +198,16 @@ const formulasData = [
     ],
   },
   {
+    'slug': 'slice-big-island-iced-salt',
     'name': 'Slice Big Island (Iced) Salt',
     'brand': 'Slice',
     'chill_type': 'chilled',
     'nic_type': 'salt',
     'nic_profiles': [
       {
-        'nic_level': '0MG',
+        'slug': 'slice-big-island-iced-salt-0mg',
+        'full_name': 'Slice Big Island (Iced) Salt - 0MG',
+        'name': '0MG',
         'is_new_mix': true,
         'target_nic_str': 0.0,
         'target_vg': 0.40,
@@ -209,7 +223,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '10MG',
+        'slug': 'slice-big-island-iced-salt-10mg',
+        'full_name': 'Slice Big Island (Iced) Salt - 10MG',
+        'name': '10MG',
         'is_new_mix': true,
         'target_nic_str': 0.01,
         'target_vg': 0.40,
@@ -234,7 +250,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '20MG',
+        'slug': 'slice-big-island-iced-salt-20mg',
+        'full_name': 'Slice Big Island (Iced) Salt - 20MG',
+        'name': '20MG',
         'is_new_mix': true,
         'target_nic_str': 0.02,
         'target_vg': 0.40,
@@ -261,13 +279,16 @@ const formulasData = [
     ],
   },
   {
+    'slug': 'this-bru-da-bears-freebase',
     'name': 'This Bru Da Bears Freebase',
     'brand': 'This Bru MFG',
     'chill_type': 'non-chilled',
     'nic_type': 'freebase',
     'nic_profiles': [
       {
-        'nic_level': '3MG',
+        'slug': 'this-bru-da-bears-freebase-3mg',
+        'full_name': 'This Bru Da Bears Freebase - 3MG',
+        'name': '3MG',
         'is_new_mix': true,
         'target_nic_str': 0.003,
         'target_vg': 0.69635,
@@ -292,7 +313,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '6MG',
+        'slug': 'this-bru-da-bears-freebase-6mg',
+        'full_name': 'This Bru Da Bears Freebase - 6MG',
+        'name': '6MG',
         'is_new_mix': true,
         'target_nic_str': 0.006,
         'target_vg': 0.692625,
@@ -317,7 +340,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '12MG',
+        'slug': 'this-bru-da-bears-freebase-12mg',
+        'full_name': 'This Bru Da Bears Freebase - 12MG',
+        'name': '12MG',
         'is_new_mix': true,
         'target_nic_str': 0.012,
         'target_vg': 0.68487,
@@ -344,13 +369,16 @@ const formulasData = [
     ],
   },
   {
+    'slug': 'vibe-arctic-mint-iced-salt',
     'name': 'Vibe Arctic Mint (Iced) Salt',
     'brand': 'Vibe',
     'chill_type': 'chilled',
     'nic_type': 'salt',
     'nic_profiles': [
       {
-        'nic_level': '10MG',
+        'slug': 'vibe-arctic-mint-iced-salt-10mg',
+        'full_name': 'Vibe Arctic Mint (Iced) Salt - 10MG',
+        'name': '10MG',
         'is_new_mix': false,
         'target_nic_str': 0.04,
         'target_vg': 0.35,
@@ -375,7 +403,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '20MG',
+        'slug': 'vibe-arctic-mint-iced-salt-20mg',
+        'full_name': 'Vibe Arctic Mint (Iced) Salt - 20MG',
+        'name': '20MG',
         'is_new_mix': false,
         'target_nic_str': 0.08,
         'target_vg': 0.35,
@@ -402,13 +432,16 @@ const formulasData = [
     ],
   },
   {
+    'slug': 'vibe-green-nrg-iced-salt',
     'name': 'Vibe Green NRG (Iced) Salt',
     'brand': 'Vibe',
     'chill_type': 'chilled',
     'nic_type': 'salt',
     'nic_profiles': [
       {
-        'nic_level': '10MG',
+        'slug': 'vibe-green-nrg-iced-salt-10mg',
+        'full_name': 'Vibe Green NRG (Iced) Salt - 10MG',
+        'name': '10MG',
         'is_new_mix': true,
         'target_nic_str': 0.01,
         'target_vg': 0.35,
@@ -433,7 +466,9 @@ const formulasData = [
         ],
       },
       {
-        'nic_level': '20MG',
+        'slug': 'vibe-green-nrg-iced-salt-20mg',
+        'full_name': 'Vibe Green NRG (Iced) Salt - 20MG',
+        'name': '20MG',
         'is_new_mix': true,
         'target_nic_str': 0.02,
         'target_vg': 0.35,
