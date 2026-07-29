@@ -4,7 +4,7 @@ const nicDensity = 1.00925;
 const pgFlavDensity = 1.04865;
 const vgFlavDensity = 1.16065;
 
-const recipesData = [
+const formulasData = [
   {
     'name': 'Black Jet Do More Freebase',
     'brand': 'Black Jet',
