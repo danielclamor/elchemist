@@ -51,7 +51,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 0.5,
+            'ratio': 0.5,
           },
           {
             'nic_base': {
@@ -59,7 +59,7 @@ const formulasData = [
               'name': 'PG F',
               'is_vg': false,
             },
-            'percentage': 0.5,
+            'ratio': 0.5,
           },
         ],
         'flavorings': [
@@ -91,7 +91,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 0.5,
+            'ratio': 0.5,
           },
           {
             'nic_base': {
@@ -99,7 +99,7 @@ const formulasData = [
               'name': 'PG F',
               'is_vg': false,
             },
-            'percentage': 0.5,
+            'ratio': 0.5,
           },
         ],
         'flavorings': [
@@ -131,7 +131,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 0.6,
+            'ratio': 0.6,
           },
           {
             'nic_base': {
@@ -139,7 +139,7 @@ const formulasData = [
               'name': 'PG F',
               'is_vg': false,
             },
-            'percentage': 0.4,
+            'ratio': 0.4,
           },
         ],
         'flavorings': [
@@ -171,7 +171,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 0.7,
+            'ratio': 0.7,
           },
           {
             'nic_base': {
@@ -179,7 +179,7 @@ const formulasData = [
               'name': 'PG F',
               'is_vg': false,
             },
-            'percentage': 0.3,
+            'ratio': 0.3,
           },
         ],
         'flavorings': [
@@ -238,7 +238,7 @@ const formulasData = [
               'name': 'PG S',
               'is_vg': false,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -265,7 +265,7 @@ const formulasData = [
               'name': 'PG S',
               'is_vg': false,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -301,7 +301,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -328,7 +328,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -355,7 +355,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -391,7 +391,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -418,7 +418,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -454,7 +454,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
@@ -481,7 +481,7 @@ const formulasData = [
               'name': 'VG S',
               'is_vg': true,
             },
-            'percentage': 1.0,
+            'ratio': 1.0,
           },
         ],
         'flavorings': [
