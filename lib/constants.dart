@@ -25,12 +25,12 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Marbro Conc',
-            'percentage': 0.0425,
+            'ratio': 0.0425,
             'is_vg': false,
           },
           {
             'name': 'FA Bitter Wizard',
-            'percentage': 0.0015,
+            'ratio': 0.0015,
             'is_vg': false,
           },
         ],
@@ -65,12 +65,12 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Marbro Conc',
-            'percentage': 0.0425,
+            'ratio': 0.0425,
             'is_vg': false,
           },
           {
             'name': 'FA Bitter Wizard',
-            'percentage': 0.0015,
+            'ratio': 0.0015,
             'is_vg': false,
           },
         ],
@@ -105,12 +105,12 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Marbro Conc',
-            'percentage': 0.0425,
+            'ratio': 0.0425,
             'is_vg': false,
           },
           {
             'name': 'FA Bitter Wizard',
-            'percentage': 0.0015,
+            'ratio': 0.0015,
             'is_vg': false,
           },
         ],
@@ -145,12 +145,12 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Marbro Conc',
-            'percentage': 0.0425,
+            'ratio': 0.0425,
             'is_vg': false,
           },
           {
             'name': 'FA Bitter Wizard',
-            'percentage': 0.0015,
+            'ratio': 0.0015,
             'is_vg': false,
           },
         ],
@@ -185,12 +185,12 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Marbro Conc',
-            'percentage': 0.0425,
+            'ratio': 0.0425,
             'is_vg': false,
           },
           {
             'name': 'FA Bitter Wizard',
-            'percentage': 0.0015,
+            'ratio': 0.0015,
             'is_vg': false,
           },
         ],
@@ -217,7 +217,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'Slice Big Island (Iced) Conc',
-            'percentage': 0.225,
+            'ratio': 0.225,
             'is_vg': false,
           },
         ],
@@ -244,7 +244,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'Slice Big Island (Iced) Conc',
-            'percentage': 0.225,
+            'ratio': 0.225,
             'is_vg': false,
           },
         ],
@@ -271,7 +271,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'Slice Big Island (Iced) Conc',
-            'percentage': 0.225,
+            'ratio': 0.225,
             'is_vg': false,
           },
         ],
@@ -307,7 +307,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Da Bears Conc',
-            'percentage': 0.193,
+            'ratio': 0.193,
             'is_vg': false,
           },
         ],
@@ -334,7 +334,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Da Bears Conc',
-            'percentage': 0.193,
+            'ratio': 0.193,
             'is_vg': false,
           },
         ],
@@ -361,7 +361,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'TB Da Bears Conc',
-            'percentage': 0.193,
+            'ratio': 0.193,
             'is_vg': false,
           },
         ],
@@ -397,7 +397,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'Vibe Arctic Mint (Iced) Conc',
-            'percentage': 0.145,
+            'ratio': 0.145,
             'is_vg': false,
           },
         ],
@@ -424,7 +424,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'Vibe Arctic Mint (Iced) Conc',
-            'percentage': 0.145,
+            'ratio': 0.145,
             'is_vg': false,
           },
         ],
@@ -460,7 +460,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'Vibe Green NRG (Iced) Conc',
-            'percentage': 0.335,
+            'ratio': 0.335,
             'is_vg': false,
           },
         ],
@@ -487,7 +487,7 @@ const formulasData = [
         'flavorings': [
           {
             'name': 'Vibe Green NRG (Iced) Conc',
-            'percentage': 0.335,
+            'ratio': 0.335,
             'is_vg': false,
           },
         ],
