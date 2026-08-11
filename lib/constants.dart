@@ -9,8 +9,8 @@ const formulasData = [
     'slug': 'black-jet-do-more-freebase',
     'name': 'Black Jet Do More Freebase',
     'brand': 'Black Jet',
-    'chill_type': 'non-chilled',
-    'nic_type': 'freebase',
+    'chill_type': 'NON_CHILLED',
+    'nic_type': 'FREEBASE',
     'nic_profiles': [
       {
         'slug': 'black-jet-do-more-freebase-0mg',
@@ -201,8 +201,8 @@ const formulasData = [
     'slug': 'slice-big-island-iced-salt',
     'name': 'Slice Big Island (Iced) Salt',
     'brand': 'Slice',
-    'chill_type': 'chilled',
-    'nic_type': 'salt',
+    'chill_type': 'CHILLED',
+    'nic_type': 'SALT',
     'nic_profiles': [
       {
         'slug': 'slice-big-island-iced-salt-0mg',
@@ -282,8 +282,8 @@ const formulasData = [
     'slug': 'this-bru-da-bears-freebase',
     'name': 'This Bru Da Bears Freebase',
     'brand': 'This Bru MFG',
-    'chill_type': 'non-chilled',
-    'nic_type': 'freebase',
+    'chill_type': 'NON_CHILLED',
+    'nic_type': 'FREEBASE',
     'nic_profiles': [
       {
         'slug': 'this-bru-da-bears-freebase-3mg',
@@ -372,8 +372,8 @@ const formulasData = [
     'slug': 'vibe-arctic-mint-iced-salt',
     'name': 'Vibe Arctic Mint (Iced) Salt',
     'brand': 'Vibe',
-    'chill_type': 'chilled',
-    'nic_type': 'salt',
+    'chill_type': 'CHILLED',
+    'nic_type': 'SALT',
     'nic_profiles': [
       {
         'slug': 'vibe-arctic-mint-iced-salt-10mg',
@@ -435,8 +435,8 @@ const formulasData = [
     'slug': 'vibe-green-nrg-iced-salt',
     'name': 'Vibe Green NRG (Iced) Salt',
     'brand': 'Vibe',
-    'chill_type': 'chilled',
-    'nic_type': 'salt',
+    'chill_type': 'CHILLED',
+    'nic_type': 'SALT',
     'nic_profiles': [
       {
         'slug': 'vibe-green-nrg-iced-salt-10mg',
