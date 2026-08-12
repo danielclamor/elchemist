@@ -13,8 +13,8 @@ const formulasData = [
     'nic_type': 'FREEBASE',
     'nic_profiles': [
       {
-        'slug': 'black-jet-do-more-freebase-0mg',
-        'full_name': 'Black Jet Do More Freebase - 0MG',
+        'slug': 'black-jet-do-more-freebase-0mg-old-mix',
+        'full_name': 'Black Jet Do More Freebase - 0MG - Old Mix',
         'name': '0MG',
         'is_new_mix': false,
         'target_nic_str': 0.0,
@@ -36,8 +36,8 @@ const formulasData = [
         ],
       },
       {
-        'slug': 'black-jet-do-more-freebase-3mg',
-        'full_name': 'Black Jet Do More Freebase - 3MG',
+        'slug': 'black-jet-do-more-freebase-3mg-old-mix',
+        'full_name': 'Black Jet Do More Freebase - 3MG - Old Mix',
         'name': '3MG',
         'is_new_mix': false,
         'target_nic_str': 0.012,
@@ -76,8 +76,8 @@ const formulasData = [
         ],
       },
       {
-        'slug': 'black-jet-do-more-freebase-6mg',
-        'full_name': 'Black Jet Do More Freebase - 6MG',
+        'slug': 'black-jet-do-more-freebase-6mg-old-mix',
+        'full_name': 'Black Jet Do More Freebase - 6MG - Old Mix',
         'name': '6MG',
         'is_new_mix': false,
         'target_nic_str': 0.024,
@@ -116,8 +116,8 @@ const formulasData = [
         ],
       },
       {
-        'slug': 'black-jet-do-more-freebase-12mg',
-        'full_name': 'Black Jet Do More Freebase - 12MG',
+        'slug': 'black-jet-do-more-freebase-12mg-old-mix',
+        'full_name': 'Black Jet Do More Freebase - 12MG - Old Mix',
         'name': '12MG',
         'is_new_mix': false,
         'target_nic_str': 0.048,
@@ -156,8 +156,8 @@ const formulasData = [
         ],
       },
       {
-        'slug': 'black-jet-do-more-freebase-18mg',
-        'full_name': 'Black Jet Do More Freebase - 18MG',
+        'slug': 'black-jet-do-more-freebase-18mg-old-mix',
+        'full_name': 'Black Jet Do More Freebase - 18MG - Old Mix',
         'name': '18MG',
         'is_new_mix': false,
         'target_nic_str': 0.072,
@@ -376,8 +376,8 @@ const formulasData = [
     'nic_type': 'SALT',
     'nic_profiles': [
       {
-        'slug': 'vibe-arctic-mint-iced-salt-10mg',
-        'full_name': 'Vibe Arctic Mint (Iced) Salt - 10MG',
+        'slug': 'vibe-arctic-mint-iced-salt-10mg-old-mix',
+        'full_name': 'Vibe Arctic Mint (Iced) Salt - 10MG - Old Mix',
         'name': '10MG',
         'is_new_mix': false,
         'target_nic_str': 0.04,
@@ -403,8 +403,8 @@ const formulasData = [
         ],
       },
       {
-        'slug': 'vibe-arctic-mint-iced-salt-20mg',
-        'full_name': 'Vibe Arctic Mint (Iced) Salt - 20MG',
+        'slug': 'vibe-arctic-mint-iced-salt-20mg-old-mix',
+        'full_name': 'Vibe Arctic Mint (Iced) Salt - 20MG - Old Mix',
         'name': '20MG',
         'is_new_mix': false,
         'target_nic_str': 0.08,
